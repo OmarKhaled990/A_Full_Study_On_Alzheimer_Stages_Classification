@@ -1,4 +1,4 @@
-# AFull Study On Alzheimer Stages Classification
+# A Full Study On Alzheimer Stages Classification
 
 This project involves the analysis and classification of Alzheimer's disease using brain MRI images. The project utilizes various machine learning models and techniques to achieve accurate classification results. Below is an overview of the project structure and the different approaches used.
 
